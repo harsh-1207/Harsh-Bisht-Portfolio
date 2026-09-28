@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Harsh-Bisht-Portfolio/static/css/main.45d243f0.css",
+    "main.js": "/Harsh-Bisht-Portfolio/static/js/main.42f46f71.js",
+    "static/media/site-bg.jpg": "/Harsh-Bisht-Portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/profile_main.png": "/Harsh-Bisht-Portfolio/static/media/profile_main.b9020bd7e9485eaa373f.png",
+    "index.html": "/Harsh-Bisht-Portfolio/index.html",
+    "main.45d243f0.css.map": "/Harsh-Bisht-Portfolio/static/css/main.45d243f0.css.map",
+    "main.42f46f71.js.map": "/Harsh-Bisht-Portfolio/static/js/main.42f46f71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d243f0.css",
+    "static/js/main.42f46f71.js"
+  ]
+}
